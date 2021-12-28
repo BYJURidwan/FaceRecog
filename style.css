@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background: mediumseagreen;
+}
+
+h3{
+    font-size: 22px;
+    width: 80%;
+}
+
+#camera{
+    border: 2px dashed darkkhaki;
+    width: 350px;
+    height: 300px;
+}
